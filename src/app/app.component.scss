@@ -1,0 +1,19 @@
+.container{
+    width: 500px;
+}
+h1{
+    position: relative;
+    //top: -30px;
+    font-weight: 400;
+    text-align: center;
+    font-size: 60px;
+    color: dodgerblue;
+}
+h4{
+    margin-bottom: 30px;
+    font-weight: 350;
+    font-size: 25px;
+}
+textarea ~ label{
+    color: #111;
+}
